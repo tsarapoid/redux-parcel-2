@@ -1,0 +1,26 @@
+{
+  "name": "react-parcel",
+  "version": "2.0.0",
+  "description": "Create a React app with zero configuration using Parcel",
+  "main": "./src/index.js",
+  "scripts": {
+    "start": "parcel serve ./src/index.html",
+    "build": "parcel build ./src/index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^7.13.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-redux": "^7.2.2",
+    "redux": "^4.0.5"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.3",
+    "@babel/preset-env": "^7.12.1",
+    "@babel/preset-react": "^7.12.5",
+    "@types/react": "^16.9.56",
+    "parcel": "next"
+  }
+}
