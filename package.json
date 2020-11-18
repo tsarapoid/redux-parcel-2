@@ -1,5 +1,5 @@
 {
-  "name": "react-parcel",
+  "name": "redux-parcel-2",
   "version": "2.0.0",
   "description": "Create a React app with zero configuration using Parcel",
   "main": "./src/index.js",
