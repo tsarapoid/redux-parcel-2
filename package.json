@@ -1,6 +1,6 @@
 {
-  "name": "redux-parcel-2",
-  "version": "2.0.0",
+  "name": "redux-knowcity-parcel-saga",
+  "version": "1.0.0",
   "description": "Create a React app with zero configuration using Parcel",
   "main": "./src/index.js",
   "scripts": {
@@ -30,10 +30,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tsarapoid/redux-parcel-2.git"
+    "url": "git+https://github.com/tsarapoid/redux-knowcity-parcel-saga.git"
   },
   "bugs": {
-    "url": "https://github.com/tsarapoid/redux-parcel-2/issues"
+    "url": "https://github.com/tsarapoid/redux-knowcity-parcel-saga/issues"
   },
-  "homepage": "https://github.com/tsarapoid/redux-parcel-2#readme"
+  "homepage": "https://github.com/tsarapoid/redux-knowcity-parcel-saga#readme"
 }
